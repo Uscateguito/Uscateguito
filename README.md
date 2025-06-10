@@ -1,5 +1,5 @@
 # 😁 About Me:
-Working on Parchados App!<br>Learning web and mobile development (also a lot of math)<br>Interested in project architecture and problem solving on small to medium size projects (at the moment)
+Working on my leadership and modeling. Getting better at React. Ready for new projects :)
 
 
 # 🧠 Tech Stack:
